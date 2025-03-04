@@ -168,8 +168,6 @@ git push origin master
 4) When the machine is created, test your change by making a request to the VM's external IP address in your browser. Your new message should be displayed.
 **Note**: You might have to wait a few minutes after the VM is created for the Docker container to start.
 
-**Congratulations!**
-In this lab, you built a continuous integration pipeline using the Google Cloud tools Cloud Source Repositories, Cloud Build, build triggers, and Container Registry.
 
 **Credits:-**
 
